@@ -11,4 +11,8 @@ This repo contains the content of my final project for [__CS50’s Introduction 
 * project.py
 * test_project.py
 * README.md
-* project.mp4
+* requirements.txt
+
+Video demonstration below:
+
+[![demo](media/video-thumb.png)](https://youtu.be/TEM1Ew_pfZM)
